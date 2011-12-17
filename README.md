@@ -20,7 +20,7 @@ How to get this running and deploy to Heroku
 5. bundle install
 6. gem install heroku
 7. heroku create --stack cedar (if you don't have a Heroku account, visit them @ [heroku][])
-8. git remote add heroku git@heroku.com:<WhateverHerokuJustMadeForYou>.git
+8. git remote add heroku git@heroku.com:WhateverHerokuJustMadeForYou.git
 9. git push heroku master
 
   [RVM]: http://beginrescueend.com/
